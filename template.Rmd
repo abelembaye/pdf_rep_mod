@@ -26,14 +26,19 @@ Your Name: {{student}}
 
 Your Answers for News Analysis Assignment 01 are below:
 
-# 1.
-question number will be stated here \ldots
+1.
 
 {{q01}}
 
-Explain:
+2.
 
-{{dis01}}
+2a. Your answer to question 2a is below:
+
+{{q02_img01}}
+
+2b. Your answer to question 2b is below:
+
+{{q02_img02}}
 
 ```{r, echo=F}
 knitr::knit_exit()
